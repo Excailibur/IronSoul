@@ -1,0 +1,16 @@
+IronSoul/Binaries/Win64/D3D12/D3D12Core.dll	2023-09-28T17:21:58.871Z
+IronSoul/Binaries/Win64/IronSoul-Win64-Shipping.exe	2023-11-14T19:06:41.427Z
+IronSoul/Binaries/Win64/OpenImageDenoise.dll	2023-09-28T17:24:46.683Z
+IronSoul/Binaries/Win64/tbb.dll	2023-09-28T17:21:55.601Z
+IronSoul/Binaries/Win64/tbb12.dll	2023-09-28T17:24:45.907Z
+IronSoul/Binaries/Win64/tbbmalloc.dll	2023-09-28T17:21:55.601Z
+Engine/Extras/Redist/en-us/UEPrereqSetup_x64.exe	2023-09-28T17:23:07.574Z
+Engine/Binaries/ThirdParty/DbgHelp/dbghelp.dll	2023-09-28T17:21:34.817Z
+Engine/Binaries/ThirdParty/MsQuic/v220/win64/msquic.dll	2023-09-28T17:21:57.472Z
+Engine/Binaries/ThirdParty/NVIDIA/NVaftermath/Win64/GFSDK_Aftermath_Lib.x64.dll	2023-09-28T17:21:57.489Z
+Engine/Binaries/ThirdParty/Ogg/Win64/VS2015/libogg_64.dll	2023-09-28T17:21:57.515Z
+Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbis_64.dll	2023-09-28T17:21:58.855Z
+Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbisfile_64.dll	2023-09-28T17:21:58.856Z
+Engine/Binaries/ThirdParty/Windows/XAudio2_9/x64/xaudio2_9redist.dll	2023-09-28T17:21:58.909Z
+Engine/Content/Slate/Cursor/invisible.cur	2023-09-14T20:14:15.932Z
+IronSoul.exe	2023-11-14T19:08:07.866Z
